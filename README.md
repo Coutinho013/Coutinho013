@@ -88,23 +88,27 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coutinho013&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+<a href="mailto:coutdevv@gmail.com">
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
     height="40" 
     style="padding-right: 10px;" 
-    src="https://custom-icon-badges.demolab.com/badge/-black.svg?logo=google-gmail--streamline-svg-logo&&(https://mail.google.com/mail/u/0/#inbox)" 
+    src="https://custom-icon-badges.demolab.com/badge/-black.svg?logo=google-gmail--streamline-svg-logo" 
 />
+</a>
 
+<a href="https://www.linkedin.com/in/alexandre-coutinho-88254621b/">
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
     height="40" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://custom-icon-badges.demolab.com/badge/-white.svg?logo=linkedin1-"
 />
+</a>
 
 </p>
 
