@@ -88,8 +88,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coutinho013&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
-<br>
-<br>
+
 
 
 <a href="mailto:coutdevv@gmail.com">
