@@ -4,7 +4,9 @@
 
 * Me chamo Alexandre Coutinho, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifatecie. Sou um entusiasta por tecnologia. 🌓
 
-* Estou em constate aprendizado, afinal, somos ignorantes até o fim. 😁
+* 🎯 Atualmente focado em Java, Programação Orientada a Objetos e Estruturas de Dados.
+
+📚 Desenvolvendo projetos e exercícios práticos para consolidar fundamentos de desenvolvimento de software.
 ---
 
 <a href="https://github.com/Coutinho013?tab=repositories&sort=stargazers">
