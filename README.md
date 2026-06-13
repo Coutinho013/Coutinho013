@@ -1,12 +1,34 @@
-### Olá, Me chamo Alexandre Coutinho.👨🏻‍💻
+### Olá, eu sou Alexandre Coutinho.👨🏻‍💻
 
-**`Desenvolvedor em Formação`**
+**`Desenvolvedor Java em Formação`**
 
-* Me chamo Alexandre Coutinho, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifatecie. Sou um entusiasta por tecnologia. 🌓
+* * Tenho 23 anos e atualmente curso Análise e Desenvolvimento de Sistemas na Unifatecie.
+
+* Sou apaixonado por tecnologia e estou construindo minha base em desenvolvimento de software através de estudos, exercícios práticos e projetos pessoais.
 
 * 🎯 Atualmente focado em Java, Programação Orientada a Objetos e Estruturas de Dados.
 
 📚 Desenvolvendo projetos e exercícios práticos para consolidar fundamentos de desenvolvimento de software.
+---
+
+### 🚀 Projeto Principal
+
+#### Java Studies
+
+Repositório criado para documentar minha jornada de aprendizado em Java.
+
+Conteúdos estudados:
+
+- Fundamentos da linguagem
+- Estruturas condicionais
+- Estruturas de repetição
+- Arrays
+- Lists
+- Programação Orientada a Objetos
+- Encapsulamento
+- Collections
+
+🔗 https://github.com/Coutinho013/java-studies
 ---
 
 <a href="https://github.com/Coutinho013?tab=repositories&sort=stargazers">
@@ -27,6 +49,15 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+/>
 
 <img 
     align="left" 
@@ -51,14 +82,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring Boot"
-    title="Spring Boot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
